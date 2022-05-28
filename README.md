@@ -15,14 +15,16 @@
 
 🌱 I’m currently learning Mandarin. 你好，我叫Gabriela，你呢？
 
-👩🏼‍💻 My pronouns are she/her
+👩🏼 My pronouns are she/her
 
 ⚡ Fun fact: I can identify most human bones by touch without looking at them 
 
 💬 Ask me about indigenous Caribbean archaeology 🐚
 
+💻 I'm working on some tech tutorials articles. Check out my first one under my Articles repository!
 
-### Current Projects 💻🌈
+
+### Current Projects 🌈
 - Early Stages Programming Board at <a href="https://startout.org/">StartOut</a>
 - Web Developer at <a href="https://www.meant2care.com/">Meant to Care (Enactus Seneca)</a>
 - Marketing and Design Team at <a href="https://gradientspaces.ca/">Gradient Spaces</a>
@@ -30,7 +32,7 @@
 - Social Media & Community Building Ambassador at <a href="https://women-in-tech.org/">Women in Tech® (Canadian Chapter)</a>
 
 
-### Languages and Tools ⚒️🪛
+### Languages and Tools 🪛
 <p align="left"> 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> 
