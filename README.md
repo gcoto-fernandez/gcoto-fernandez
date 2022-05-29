@@ -21,7 +21,7 @@
 
 💬 Ask me about indigenous Caribbean archaeology 🐚
 
-💻 I'm working on some tech tutorials articles. Check out my first one under my Articles repository!
+💻 I'm working on some tech tutorials articles. Check out my first two under my Articles repository!
 
 
 ### Current Projects 🌈
