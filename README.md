@@ -25,11 +25,9 @@
 
 
 ### Current Projects 🌈
-- Early Stages Programming Board at <a href="https://startout.org/">StartOut</a>
 - Web Developer at <a href="https://www.meant2care.com/">Meant to Care (Enactus Seneca)</a>
 - Marketing and Design Team at <a href="https://gradientspaces.ca/">Gradient Spaces</a>
 - Chapter Head at <a href="https://outintech.com/">Out in Tech (Toronto Chapter)</a>
-- Social Media & Community Building Ambassador at <a href="https://women-in-tech.org/">Women in Tech® (Canadian Chapter)</a>
 
 
 ### Languages and Tools 🪛
