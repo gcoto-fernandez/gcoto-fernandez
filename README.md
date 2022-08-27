@@ -11,9 +11,7 @@
 
 🎓 I hold a BSc. in Bioanthropology from <a href="https://www.uwinnipeg.ca/bioanthropology/index.html">The University of Winnipeg</a>
 
-💜 I'm really passionate about artificial intelligence
-
-🌱 I’m currently learning Mandarin. 你好，我叫Gabriela，你呢？
+💜 I'm really passionate about artificial intelligence, archaeology and marketing
 
 👩🏼 My pronouns are she/her
 
@@ -25,7 +23,6 @@
 
 
 ### Current Projects 🌈
-- Web Developer at <a href="https://www.meant2care.com/">Meant to Care (Enactus Seneca)</a>
 - Marketing and Design Team at <a href="https://gradientspaces.ca/">Gradient Spaces</a>
 - Chapter Head at <a href="https://outintech.com/">Out in Tech (Toronto Chapter)</a>
 
