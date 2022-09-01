@@ -5,7 +5,7 @@
 
 
 ### About Me ✨
-💼 I’m currently working as a Research Assistant for a collaborative project between <a href="https://www.senecacollege.ca/innovation/research.html">Seneca College</a> and <a href="https://getoppos.com/">Oppos Inc.</a>
+💼 I’m currently working as a Marketing and Events Professional at <a href="https://www.queertech.org/">QueerTech</a>
 
 🎒 I'm a Computer Programming and Analysis student at <a href="https://www.senecacollege.ca/programs/fulltime/CPA.html">Seneca College</a>
 
