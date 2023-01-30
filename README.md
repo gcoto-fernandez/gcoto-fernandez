@@ -5,13 +5,13 @@
 
 
 ### About Me ✨
-💼 I’m currently working as a Marketing and Events Professional at <a href="https://www.queertech.org/">QueerTech</a>
+💼 I’m currently working as a Program Coordinator at <a href="https://www.queertech.org/">QueerTech</a>
 
 🎒 I'm a Computer Programming student at <a href="https://www.senecacollege.ca/programs/fulltime/CPP.html">Seneca College</a>
 
 🎓 I hold a BSc. in Bioanthropology from <a href="https://www.uwinnipeg.ca/bioanthropology/index.html">The University of Winnipeg</a>
 
-💜 I'm really passionate about artificial intelligence, archaeology and marketing
+💜 I'm really passionate about artificial intelligence, archaeology, and diversity and inclusion
 
 👩🏼 My pronouns are she/her
 
@@ -23,7 +23,7 @@
 
 
 ### Current Projects 🌈
-- Marketing and Design Team at <a href="https://gradientspaces.ca/">Gradient Spaces</a>
+- Marketing Lead at <a href="https://gradientspaces.ca/">Gradient Spaces</a>
 
 
 ### Languages and Tools 🪛
