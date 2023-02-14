@@ -1,4 +1,4 @@
-## Hi there! I’m Gabriela👋
+## Hi there! I’m Gaby👋
 📫 How to reach me: 
 
 <a href="mailto:gabrielacotofernandez@gmail.com">![gabrielacotofernandez@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.gabrielacotofernandez.com">![Website](https://img.shields.io/badge/-WEBSITE-blueviolet?style=for-the-badge)</a> <a href="https://www.linkedin.com/in/gcotofernandez/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
@@ -21,9 +21,7 @@
 
 💻 I'm working on some tech tutorials articles. Check out my first two under my Articles repository!
 
-
-### Current Projects 🌈
-- Marketing Lead at <a href="https://gradientspaces.ca/">Gradient Spaces</a>
+🌈 I'm the Marketing Lead at <a href="https://gradientspaces.ca/">Gradient Spaces</a>
 
 
 ### Languages and Tools 🪛
