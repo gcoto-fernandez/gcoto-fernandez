@@ -19,8 +19,6 @@
 
 💬 Ask me about indigenous Caribbean archaeology 🐚
 
-💻 I'm working on some tech tutorials articles. Check out my first two under my Articles repository!
-
 🌈 I'm the Marketing Lead at <a href="https://gradientspaces.ca/">Gradient Spaces</a>
 
 
